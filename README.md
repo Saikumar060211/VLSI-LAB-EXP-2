@@ -191,5 +191,5 @@ STEP:11  On the board, by giving required input, the LEDs starts to glow light, 
 
 RESULT
 
- simulation and synthesis ENCODER, DECODER, MULTIPLEXER, DEMULTIPLEXER, MAGNITUDE COMPARATOR using Xilinx ISE is verified.
+ simulation and synthesis ENCODER, DECODER, MULTIPLEXER, DEMULTIPLEXER, MAGNITUDE COMPARATOR using VIVADO 2023.3 verified.
 
