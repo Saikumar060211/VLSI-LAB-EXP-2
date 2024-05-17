@@ -210,4 +210,4 @@ OUTPUT:![Screenshorts Image 2024-04-13 at 09 59 59_e263eb8c](https://github.com/
 
 
 
-RESULT
+RESULT:Hence ENCODER, DECODER, MULTIPLEXER, DEMULTIPLEXER, MAGNITUDE COMPARATOR are simulated and synthesised using Xilinx ISE.
